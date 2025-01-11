@@ -6,7 +6,7 @@ The dataset used for this project contains features such as GDP, healthcare expe
 ### Data Preprocessing
 - Handle missing values.
 - Normalize numerical features.
-- Encode categorical features.
+- Encoding categorical features.
 
 ## Methodology
 
@@ -27,4 +27,4 @@ The dataset used for this project contains features such as GDP, healthcare expe
 
 ## Results
 The model achieved the following results on the test dataset:
-- R-squared: 91% Accuracy
+- R-squared: 91% Accuracy of the model.
