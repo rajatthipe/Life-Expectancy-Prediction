@@ -27,4 +27,4 @@ The dataset used for this project contains features such as GDP, healthcare expe
 
 ## Results
 The model achieved the following results on the test dataset:
-- R-squared: 91% Accuracy of the model.
+- R-squared: (Good Fit) 91% Accuracy of the model.
